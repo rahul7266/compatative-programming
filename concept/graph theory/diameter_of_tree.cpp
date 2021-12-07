@@ -37,5 +37,5 @@ int main()
 	for(i=0;i<=ver;i++)
 	vis[i]=0;
 	dfs(maxnode,0);
-	cout<<maxnode;
+	cout<<maxd;
 }
